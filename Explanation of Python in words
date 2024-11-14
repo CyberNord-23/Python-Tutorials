@@ -73,9 +73,18 @@
 ----------------------------------------------------------------------------
 
 <|> 𝐏𝐲𝐭𝐡𝐨𝐧 𝐟𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬  <|>
-     
+
+     >> Python 2 --> Python version 2 release in 2000.   It used to print the statement by print function.
+                     for exmple --
+                 print "Hello World"   ,,This code is print in python v.2.
+
+     >> Python 3 -->Python version 3 release in 2008.  It used to print the statement by print() function.
+                     for exmple --
+                 print ("Hello World")   ,,This code is print in python v.3.
 
 
+
+-----------------------------------------------------------------------------
 
 
 
