@@ -14,7 +14,13 @@
    > A lot of career options for you
    > Used almost everywhere
 
->> Interpreted Language --> Code is executed line by line without converting into object code.
+      >> Interpreted Language --> Code is executed line by line without converting into object code.
+
+      >> Platform independence --> It work on diffferent platform like windows , macOS , raspberry PI , etc.
+
+      >> Free --> Python is free that anyone can use it by his own learning.
+
+      >> Less code, more efficient --> Python syntax permit programmers to write code in less lines & create its interpretation faster.
 
 <|> 𝐔𝐬𝐞 𝐨𝐟 𝐏𝐲𝐭𝐡𝐨𝐧 
 
@@ -41,7 +47,8 @@
 
 -------------------------------------------------------------------------
 
-<|> 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧s
+<|> 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧s <|>
+
      Setting up a software environment for Python programming.
 
      1. Anaconda      -- Server based tool
@@ -65,7 +72,7 @@
 
 ----------------------------------------------------------------------------
 
-<|> 𝐏𝐲𝐭𝐡𝐨𝐧 𝐟𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬
+<|> 𝐏𝐲𝐭𝐡𝐨𝐧 𝐟𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬  <|>
      
 
 
